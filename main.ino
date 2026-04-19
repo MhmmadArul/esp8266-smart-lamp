@@ -30,10 +30,10 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
 
-#define WIFI_SSID         "NAUFAL AFKAR"
-#define WIFI_PASS         "naufalafkar26$_"
-#define APP_KEY           "f0e3d5a6-f4df-4659-83e3-c74d6a4a1d0f"
-#define APP_SECRET        "0ec411b2-423d-45ef-8183-c6ccebc76f51-8988c998-af1c-4f9b-a178-1660450b584a"
+#define WIFI_SSID         "SSID_WIFI"
+#define WIFI_PASS         "PASSWORD_WIFI"
+#define APP_KEY           "APP_KEY FROM SINRIC"
+#define APP_SECRET        "APP SECRET FROM SINRIC"
 
 #define SWITCH_ID_1       "69de4188c1c259380d96ffc4"
 #define RELAYPIN_1        05
